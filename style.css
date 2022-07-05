@@ -1,0 +1,77 @@
+.result table tr td {
+    height: 41px;
+}
+
+.result table tr td input {
+    height: 30px;
+    width: 75px;
+}
+
+.result table tr td label {
+    background-color: white;
+}
+
+.result table {
+    background-color: white;
+    height: 100%;
+    width: 65%;
+}
+
+.result {
+    padding-left: 50px;
+}
+
+/* ____________________________________________ */
+.btn {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Green */
+.success {
+    border-color: #4CAF50;
+    color: green;
+}
+
+.success:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Orange */
+.warning {
+    border-color: #ff9800;
+    color: orange;
+}
+
+.warning:hover {
+    background: #ff9800;
+    color: white;
+}
+
+/* Blue */
+.info {
+    border-color: #2196F3;
+    color: dodgerblue
+}
+
+.info:hover {
+    background: #2196F3;
+    color: white;
+}
+
+/* _________________________________________ */
+a {
+    color: black;
+    text-decoration: none;
+}
+
+/* p {
+    text-align: center;
+
+} */
+/* Some things I just changed, the whole website I didn't build 4-7-22*/
